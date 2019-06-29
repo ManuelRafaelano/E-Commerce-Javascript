@@ -30,7 +30,8 @@ class Products {
     }
   }
 }
-//display products
+
+//display products checked
 class UI {
   displayProducts(products) {
     let result = "";
